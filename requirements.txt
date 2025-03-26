@@ -13,8 +13,6 @@ cycler==0.12.1
 DateTime==5.5
 debugpy==1.8.13
 decorator==5.2.1
-earthengine-api==1.5.6
-ee==0.2
 exceptiongroup==1.2.2
 executing==2.2.0
 faostat==1.1.2
